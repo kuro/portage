@@ -2,8 +2,9 @@
 <layman>
   <overlay
     type = "git"
-    src  = "git://github.com/kuro/portage.git"
+    src = "git://github.com/kuro/portage.git"
     name = "kuro-portage"
+    contact = "kuro@github"
     status = "unofficial">
 
     <description>
