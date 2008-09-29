@@ -1,0 +1,7 @@
+
+Usage
+-----
+
+Edit /etc/layman/layman.cfg, and add the following to the overlays section:
+
+    http://github.com/kuro/portage/tree/master%2Foverlay.xml?raw=true

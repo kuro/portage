@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<layman>
+  <overlay
+    type = "git"
+    src  = "git://github.com/kuro/portage.git"
+    name = "kuro-portage"
+    status = "unofficial">
+
+    <description>
+      Various ebuilds.
+    </description>
+  </overlay>
+</layman>
